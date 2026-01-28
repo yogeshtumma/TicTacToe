@@ -1,7 +1,8 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Main {
+// yogesh
+public class TicTacToe {
     static char[][] box = new char[3][3];
     static String Player1 = "", Player2 = "";
     static boolean Player1win = false;
